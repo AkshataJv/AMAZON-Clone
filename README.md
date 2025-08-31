@@ -146,7 +146,4 @@ This project is created for educational purposes only. It is not affiliated with
 
 ---
 
-** ⭐If you found this project helpful, please give it a star!⭐ **
-
-
-
+⭐If you found this project helpful, please give it a star!⭐ 
