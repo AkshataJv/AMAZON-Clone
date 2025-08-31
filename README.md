@@ -7,7 +7,7 @@ A responsive Amazon homepage clone built with HTML and CSS, replicating the desi
 [Live Demo](https://storied-semolina-f55992.netlify.app/) 
 ## 📸 Screenshots
 
-![Amazon Clone Homepage](amazon.jpg)
+![Amazon Clone Homepage](amazon.png)
 
 ## ✨ Features
 
@@ -56,7 +56,7 @@ amazon-clone/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/amazon-clone.git
+   git clone https://github.com/AkshatJv/amazon-clone.git
    ```
 
 2. **Navigate to the project directory**
@@ -148,10 +148,11 @@ This project is created for educational purposes only. It is not affiliated with
 ## 👨‍💻 Author
 
 **AKSHATA JADHAV**
-- GitHub: [AkshataJv](https://github.com/yourusername)
+- GitHub: [AkshataJv](https://github.com/AkshtaJv)
 - LinkedIn: [AKSHATA JADHAV](https://www.linkedin.com/in/akshata-jadhav-5b5611344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-⭐If you found this project helpful, please give it a star!⭐
+** ⭐If you found this project helpful, please give it a star!⭐ **
+
 
