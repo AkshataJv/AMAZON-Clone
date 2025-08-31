@@ -2,13 +2,6 @@
 
 A responsive Amazon homepage clone built with HTML and CSS, replicating the design and layout of Amazon's main interface.
 
-## 🚀 Demo
-
-[Live Demo](https://storied-semolina-f55992.netlify.app/) 
-## 📸 Screenshots
-
-![Amazon Clone Homepage](amazon.png)
-
 ## ✨ Features
 
 - **Responsive Navigation Bar** - Complete with Amazon logo, location selector, search functionality, and user account options
@@ -154,5 +147,6 @@ This project is created for educational purposes only. It is not affiliated with
 ---
 
 ** ⭐If you found this project helpful, please give it a star!⭐ **
+
 
 
